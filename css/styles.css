@@ -11508,9 +11508,29 @@ html {
 }
 
 .subtitle {
-  font-size 1.25rem;
+  font-size: 1.25rem;
+}
+
+.portfolio-heading {
+  margin-bottom: 32px;
+}
+
+.portfolio-spacing {
+  margin-bottom: 32px !important;
 }
 
 .about-heading {
   margin-bottom: 16px;
+}
+
+.modal-spacing {
+  margin-bottom: 32px !important;
+}
+
+.contact-heading {
+  margin-bottom: 32px !important;
+}
+
+.contact-text {
+  text-align: center;
 }
